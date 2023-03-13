@@ -1,4 +1,5 @@
-#include<stdio.h>
+#include <stdio.h>
+#include <stdint.h>
 
 int main()
 {
@@ -8,4 +9,9 @@ int main()
         printf("hello world\n");
         printf("test_2\n");
     }
+
+    printf("test_hello\n");
+
+
+    return 0;
 }
