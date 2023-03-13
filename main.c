@@ -6,6 +6,6 @@ int main()
     {
 
         printf("hello world\n");
-
+        printf("test_2\n");
     }
 }
